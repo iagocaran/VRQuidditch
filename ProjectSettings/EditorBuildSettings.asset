@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Thomas.unity
+    guid: e9bc02e278a2d78429cf2371430474cd
+  - enabled: 1
+    path: Assets/Scenes/fin.unity
+    guid: 72f319933cd217145a25f6ec7ca8870e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ef63fde5a7ee0f24d9d526c81b71cf1d,
       type: 2}
